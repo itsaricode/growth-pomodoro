@@ -1,4 +1,4 @@
-<img width="312" height="563" alt="image" src="https://github.com/user-attachments/assets/18198cd9-16fc-49a8-9c65-305d1a766c8c" /># 🌱 Growth Pomodoro
+# 🌱 Growth Pomodoro
 
 A cozy pixel-art Pomodoro timer where productivity helps a little plant grow. 🌱🌿🌸
 
